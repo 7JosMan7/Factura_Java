@@ -19,5 +19,7 @@ public class DetalleDeFactura {
 
         System.out.println("La Factura " + nombreFactura + " tiene un total bruto de " + resultadoSumaProductos +
                 " pesos, con un impuesto de " + impuesto + " pesos, y el monto total es de " + productosConImpuesto + " pesos.");
+
+        System.out.println("Probando repositorio");
     }
 }
